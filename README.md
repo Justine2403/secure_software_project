@@ -11,5 +11,6 @@ This repository regroups all the project I did during my exchange program at NCU
 *Description:* This project asks to write a function that repeatedly sums a number until a single digit is obtained. If we have "1234" in input, then we will have "1" (1+2+3+4=10, 1+0=1) in output.
 
 ## Project 4:
+*Description:* In this project, we want to create a network fuzzer, which is a program that will try out many different URL variants to see if any exist on a web server. 
 
 ## Project 5:
