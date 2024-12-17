@@ -1,4 +1,4 @@
-# Secure Software
+# Secure Software Project
 This repository regroups all the project I did during my exchange program at NCU in Secure Software.
 
 ## Project 1: Force brute password
@@ -12,5 +12,3 @@ This repository regroups all the project I did during my exchange program at NCU
 
 ## Project 4:
 *Description:* In this project, we want to create a network fuzzer, which is a program that will try out many different URL variants to see if any exist on a web server. 
-
-## Project 5:
